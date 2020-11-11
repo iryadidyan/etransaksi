@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <tableOfContent>
+    <tocData>
+      <pageNumber value="1"/>
+      <title value=""/>
+      <children/>
+    </tocData>
+  </tableOfContent>
+  <bookProperties>
+    <pages>
+      <defaultValue>
+        <BGColor value="13421772"/>
+        <width value="618"/>
+        <height value="800"/>
+      </defaultValue>
+      <elements>
+        <page>
+          <links/>
+          <id value="1"/>
+        </page>
+        <page>
+          <links/>
+          <id value="2"/>
+        </page>
+        <page>
+          <links/>
+          <id value="3"/>
+        </page>
+        <page>
+          <links/>
+          <id value="4"/>
+        </page>
+        <page>
+          <links/>
+          <id value="5"/>
+        </page>
+        <page>
+          <links/>
+          <id value="6"/>
+        </page>
+        <page>
+          <links/>
+          <id value="7"/>
+        </page>
+      </elements>
+    </pages>
+    <searchIndex ext="other/search.txt"/>
+    <bookId value="{6E5BC515-92FF-4AD2-B4FD-2FA375F46CDB}"/>
+    <bookWidth value="618"/>
+    <bookHeight value="800"/>
+    <bookName value="OTKP | Transaksi Online"/>
+    <bookBG src="other/background.jpg" scale="scale" width="618" height="800" color="13421772"/>
+    <bookLang value="en"/>
+    <tocVisible value="true"/>
+    <slideshowVisible value="true"/>
+    <bookmarksVisible value="true"/>
+  </bookProperties>
+</Properties>

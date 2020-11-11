@@ -1,0 +1,101 @@
+{
+ "bookProperties": {
+  "pages": {
+   "elements": {
+    "page": [
+     {
+      "links": {},
+      "id": {
+       "value": "1"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "2"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "3"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "4"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "5"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "6"
+      }
+     },{
+      "links": {},
+      "id": {
+       "value": "7"
+      }
+     }]
+   },
+   "defaultValue": {
+    "BGColor": {
+     "value": "13421772"
+    },
+    "width": {
+     "value": "618"
+    },
+    "height": {
+     "value": "800"
+    }
+   }
+  },
+  "bookName": {
+   "value": "OTKP | Transaksi Online"
+  },
+  "bookLang": {
+   "value": "en"
+  },
+  "bookHeight": {
+   "value": "800"
+  },
+  "slideshowVisible": {
+   "value": "true"
+  },
+  "tocVisible": {
+   "value": "true"
+  },
+  "bookWidth": {
+   "value": "618"
+  },
+  "searchIndex": {
+   "ext": "other\/search.txt"
+  },
+  "bookmarksVisible": {
+   "value": "true"
+  },
+  "bookId": {
+   "value": "{6E5BC515-92FF-4AD2-B4FD-2FA375F46CDB}"
+  },
+  "bookBG": {
+   "src": "other\/background.jpg",
+   "width": "618",
+   "height": "800",
+   "scale": "scale",
+   "color": "13421772"
+  }
+ },
+ "tableOfContent": {
+  "tocData": {
+   "pageNumber": {
+    "value": "1"
+   },
+   "children": {},
+   "title": {
+    "value": ""
+   }
+  }
+ }
+}
